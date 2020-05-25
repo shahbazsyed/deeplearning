@@ -10,3 +10,7 @@ A sample-efficient pre-training task called replace token detection to improve u
   - Initialize the weight of the discriminator with the weights of the generator. Then train the discriminator for _n_ steps, keeping the generator's weights frozen
 
 ![Electra Overview](figures/electra-overview.png)
+
+### Code
+- https://github.com/google-research/electra
+- https://huggingface.co/transformers/model_doc/electra.html
